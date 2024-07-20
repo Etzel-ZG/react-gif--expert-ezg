@@ -2,7 +2,7 @@
   "name": "gif-expert-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://etzel-zg.github.io/<nombre-del-repositorio>/",
+  "homepage": "https://etzel-zg.github.io/react-gif--expert-ezg/",
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
