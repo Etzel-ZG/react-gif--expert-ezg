@@ -4,20 +4,20 @@
   "private": true,
   "homepage": "https://etzel-zg.github.io/react-gif--expert-ezg/",
   "dependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
-    "vite": "^2.5.10"
+    "react": "18",
+    "react-dom": "18",
+    "vite": "^5.3.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "vite",
+    "build": "vite build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
     "gh-pages": "^3.2.3"
   }
 }
